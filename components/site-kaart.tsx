@@ -57,7 +57,6 @@ export function SiteKaart({ site, rang }: SiteKaartProps) {
           <div className="bg-gray-50 border-2 border-yellow-400 p-3 rounded-lg text-center">
             <div className="text-xs text-gray-600 font-semibold mb-1">WELKOMSTAANBIEDING</div>
             <div className="text-xl font-bold text-gray-900">{site.welkomstaanbieding}</div>
-            <div className="text-xs text-gray-600 mt-1">{site.bonus}</div>
           </div>
 
           {/* Kenmerken */}
@@ -95,7 +94,6 @@ export function SiteKaart({ site, rang }: SiteKaartProps) {
           <div className="bg-gray-50 border-2 border-yellow-400 p-3 rounded-lg text-center">
             <div className="text-xs text-gray-600 font-semibold">WELKOMSTAANBIEDING</div>
             <div className="text-lg font-bold text-gray-900">{site.welkomstaanbieding}</div>
-            <div className="text-xs text-gray-600">{site.bonus}</div>
           </div>
         </div>
 
