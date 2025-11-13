@@ -4,13 +4,15 @@ import { Nunito_Sans } from "next/font/google"
 import "./globals.css"
 import { Voettekst } from "../components/voettekst"
 
-const nunitoSans = Nunito_Sans({ subsets: ["latin"] })
+const nunitoSans = Nunito_Sans({
+  subsets: ['latin'],
+  weight: ['400', '700'],
+});
 
 export const metadata: Metadata = {
   title: "BelgianSport.com - Beste Belgische Goksites 2025",
   description:
     "Vergelijk de beste Belgische online goksites. Vind topwelkomstbonussen, betrouwbare platforms en exclusieve aanbiedingen voor Belgische spelers. 21+ Speel verantwoord.",
-    generator: 'v0.app'
 }
 
 export default function RootLayout({

@@ -57,7 +57,7 @@ export const goksites: Goksite[] = [
     bonus: "Krijg 1 Boost",
     beschrijving: "Opkomende Belgische favoriet",
     kenmerken: ["Eenvoudige Interface", "Snelle Registratie", "Belgische Support"],
-    welkomstaanbieding: "Krijg 1 Boost tot €152",
+    welkomstaanbieding: "Krijg 1 Boost tot €15",
     voorwaarden:
       "21+ Alleen nieuwe klanten. Registreer en ontvang 1 boost tot €152 op je eerste weddenschap. Voorwaarden zijn van toepassing. gamingcommission.be | GameCare | GambleAware",
     gebruikersScore: 9.6,
