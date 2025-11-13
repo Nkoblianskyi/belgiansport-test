@@ -4,7 +4,7 @@ export const goksites: Goksite[] = [
   {
     id: 1,
     naam: "Ladbrokes",
-    logo: "/ladbrokeshub.svg",
+    logo: "/ladbrokes-bet.svg",
     rating: 9.9,
     bonus: "Krijg 3 Boosts",
     beschrijving: "Premium sportweddenschappen platform",
